@@ -28,7 +28,7 @@ const Hero = () => {
           <div className="relative w-full max-w-md mx-auto mt-10 md:mt-0">
             <div className="absolute -top-6 -left-6 w-full h-full bg-primary/10 rounded-full"></div>
             <img 
-              src="/profile-photo.png" 
+              src="/lovable-uploads/a90a349d-0a13-4783-88de-e1f3d4263731.png" 
               alt="Sujey Sharoan" 
               className="relative z-10 w-full h-auto rounded-full object-cover border-4 border-white shadow-xl"
             />
